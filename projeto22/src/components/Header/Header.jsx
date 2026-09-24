@@ -13,8 +13,8 @@ function Header() {
           <span className="logo text">Studio Alfa</span>
         </div>
         <nav className="nav">
-          <a href="#">inicio</a>
-          <a href="#">serviços</a>
+          <a href="#">Inicio</a>
+          <a href="#">Serviços</a>
           <a href="#">Sobre</a>
           <a href="#" className="btn-contatos">
             contatos
