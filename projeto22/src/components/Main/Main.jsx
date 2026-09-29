@@ -15,7 +15,7 @@ function Main() {
             Peça um orçamento
           </a>
           <a href="#portifolio" className="btn-secondary">
-            ver portifolio"
+            "Ver portifólio"
           </a>
         </div>
       </section>
