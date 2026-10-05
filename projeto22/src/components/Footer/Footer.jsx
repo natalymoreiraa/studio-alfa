@@ -2,16 +2,14 @@ import "./Footer.css";
 
 function Footer() {
   return (
-    <Footer className="footer">
+    <footer className="footer">
       <div className="footer-container">
         <span>&copy; 2026 Studio ALfa</span>
         <div className="footer-icons">
           <a href="#" aria-label="instagram">
-            {" "}
             &#x1F4F7;
           </a>
           <a href="#" aria-label="Github">
-            {" "}
             &#x1F4BB;
           </a>
           <a href="#" aria-label="Email">
@@ -19,6 +17,8 @@ function Footer() {
           </a>
         </div>
       </div>
-    </Footer>
+    </footer>
   );
 }
+
+export default Footer;

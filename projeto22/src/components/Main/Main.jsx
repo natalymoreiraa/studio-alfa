@@ -1,5 +1,5 @@
 import "./Main.css";
-
+import './ServiçoCard'
 function Main() {
   return (
     <main className="Main">
@@ -34,11 +34,7 @@ function Main() {
           <h3>Design de interface</h3>
           <p>Telas claras, pensadas para o usuário</p>
         </div>
-        <div className="servico-card">
-          <span>😍​</span>
-          <h3>Responsividade</h3>
-          <p>O mesmo site em qualquer tela</p>
-        </div>
+        
         <div className="servico-card">
           <span>👌​</span>
           <h3>Performance</h3>

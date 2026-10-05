@@ -27,9 +27,8 @@
   text-decoration: none;
   color: var(--cor-texto-claro);
   transition: color 0.2s;
+}
 
-  .footer a:houver {
-    color: var(--cor-titulo);
-    font
-  }
+.footer a:hover {
+  color: var(--cor-titulo);
 }
