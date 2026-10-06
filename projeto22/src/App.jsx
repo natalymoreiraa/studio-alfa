@@ -1,5 +1,5 @@
 import Header from "./components/Header/Header";
-import Main from "./components/Main/main";
+import Main from "./components/Main/Main";
 import Footer from "./components/Footer/Footer";
 
 function App() {
@@ -13,3 +13,4 @@ function App() {
 }
 
 export default App;
+   
